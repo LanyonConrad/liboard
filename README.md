@@ -6,14 +6,14 @@ For the app that connects the liboard to lichess see [limin](https://github.com/
 Single layer pcb designed with DesignSpark PCB.
 
 Features:
-Microchip BM71 bluetooth module
-TI MSP430 microcontroller (Spi-By-Wire pins are available on the usb port for programming)
-Battery Management
-3.3V LDO Voltage Regulator
-81 Reverse Mount LEDs
-3 8-bit shift registers
-1 8:1 MUX
-Over 80 0-ohm resistor jumpers due to the single layer constraint...
+* Microchip BM71 bluetooth module
+* TI MSP430 microcontroller (Spi-By-Wire pins are available on the usb port for programming)
+* Battery Management
+* 3.3V LDO Voltage Regulator
+* 81 Reverse Mount LEDs
+* 3 8-bit shift registers
+* 1 8:1 MUX
+* Over 80 0-ohm resistor jumpers due to the single layer constraint...
 
 
 ## Firmware
