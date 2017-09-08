@@ -5,7 +5,7 @@ For the app that connects the liboard to lichess see [limin](https://github.com/
 ## PCB
 Single layer pcb designed with DesignSpark PCB.
 
-###Features:
+### Features:
 * Microchip BM71 bluetooth module
 * TI MSP430 microcontroller (Spi-By-Wire pins are available on the usb port for programming)
 * Battery Management
