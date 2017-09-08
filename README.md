@@ -5,7 +5,7 @@ For the app that connects the liboard to lichess see [limin](https://github.com/
 ## PCB
 Single layer pcb designed with DesignSpark PCB.
 
-Features:
+###Features:
 * Microchip BM71 bluetooth module
 * TI MSP430 microcontroller (Spi-By-Wire pins are available on the usb port for programming)
 * Battery Management
@@ -17,7 +17,7 @@ Features:
 
 
 ## Firmware
-Code is written in C, compiled with [msp430 GCC](http://www.ti.com/tool/msp430-gcc-opensource), and programmed to chip with MSPDebug(https://github.com/dlbeer/mspdebug) using the MSP430G2 LaunchPad ([MSP-EXP430G2](http://www.ti.com/tool/msp-exp430g2)).
+Code is written in C, compiled with [msp430 GCC](http://www.ti.com/tool/msp430-gcc-opensource), and programmed to chip with [MSPDebug](https://github.com/dlbeer/mspdebug) using the MSP430G2 LaunchPad ([MSP-EXP430G2](http://www.ti.com/tool/msp-exp430g2)).
 
 ## Todo
 Add full bill of materials
